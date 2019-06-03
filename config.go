@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	t "github.com/TyphoonMC/TyphoonCore"
+	t "github.com/mikroskeem/TyphoonCore"
 	"github.com/TyphoonMC/go.uuid"
 )
 
@@ -11,6 +11,7 @@ type Config struct {
 	BossBar          json.RawMessage `json:"boss_bar"`
 	PlayerListHeader json.RawMessage `json:"playerlist_header"`
 	PlayerListFooter json.RawMessage `json:"playerlist_footer"`
+	VelocitySupport  bool            `json:"velocity_support"`
 }
 
 var (

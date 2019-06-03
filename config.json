@@ -13,5 +13,6 @@
     "handshake_address": 300,
     "player_name": 16,
     "chat_message": 32767
-  }
+  },
+  "velocity_support": true
 }

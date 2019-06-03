@@ -1,0 +1,16 @@
+github.com/TyphoonMC/go.uuid v1.2.0 h1:shGDZJlalmYzP1d6DZkV6G8O97BwMcm03oEMQKv7i38=
+github.com/TyphoonMC/go.uuid v1.2.0/go.mod h1:EA3G1ph1GIr+QuXTL9qq8IJihUI+kKd7NR5hyxP3bZM=
+github.com/TyphoonMC/go.uuid v1.2.1-0.20180103174451-36e9d2ebbde5 h1:PmkiMBzbNG1XlV/3Z8RKP/wjmbn3qZLKdCZVHvmimIU=
+github.com/TyphoonMC/go.uuid v1.2.1-0.20180103174451-36e9d2ebbde5/go.mod h1:EA3G1ph1GIr+QuXTL9qq8IJihUI+kKd7NR5hyxP3bZM=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603013015-66cccd872887 h1:tK5kC7L4xQ4SrVi0J1Jtc/YzloBnCNUdmjxyo+FoCxM=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603013015-66cccd872887/go.mod h1:+NlQpV/KWuVYnG1MaJJ/CsDPn38hFRKLSp27nLHXgis=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603013513-ad3851a73ade h1:8Bo2Ahp/sz4VqEpmZRfzcV2T+1GksxX7FVwZODAlsNs=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603013513-ad3851a73ade/go.mod h1:+NlQpV/KWuVYnG1MaJJ/CsDPn38hFRKLSp27nLHXgis=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603014913-b90c94b44d1d h1:mgf5XwLqPJFA70vUHtXZtDV3JMxG3E09e4DUvEyE4kc=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603014913-b90c94b44d1d/go.mod h1:+NlQpV/KWuVYnG1MaJJ/CsDPn38hFRKLSp27nLHXgis=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603015145-bc8ffc4bee39 h1:rGTy5PARyZbC3vANjIGiN2tuzXK0pRLIb0n7bp3JyjA=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603015145-bc8ffc4bee39/go.mod h1:+NlQpV/KWuVYnG1MaJJ/CsDPn38hFRKLSp27nLHXgis=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603015735-9c9920cbb17f h1:2Xn2oK6PZGef87lvjYn7pYg3s0IQHImeMYwq2IeEVoE=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603015735-9c9920cbb17f/go.mod h1:+NlQpV/KWuVYnG1MaJJ/CsDPn38hFRKLSp27nLHXgis=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603021731-b9d4677d2b41 h1:e5Q7X2mUZATKuMBz0Zh0t0Th2yvkG+6FPgR6Cr6KduU=
+github.com/mikroskeem/TyphoonCore v0.0.3-0.20190603021731-b9d4677d2b41/go.mod h1:+NlQpV/KWuVYnG1MaJJ/CsDPn38hFRKLSp27nLHXgis=
